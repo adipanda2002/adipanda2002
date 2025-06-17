@@ -6,11 +6,12 @@
 
 ### 🔗 Let's Connect
 
-[![Website](https://img.shields.io/badge/Website-051F20?style=flat&logo=googlechrome&logoColor=white)](https://adityaghosh.netlify.app)
-[![GitHub](https://img.shields.io/badge/GitHub-0B2B26?style=flat&logo=github&logoColor=white)](https://github.com/adipanda2002)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-163832?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/adipanda2002)
-[![Instagram](https://img.shields.io/badge/Instagram-235347?style=flat&logo=instagram&logoColor=white)](https://instagram.com/adityaghost)
-[![email](https://img.shields.io/badge/Email-8EB69B?logo=gmail&logoColor=white)](mailto:adityaghosh2002@gmail.com) 
+[![Website](https://img.shields.io/badge/Website-2D2D2D?style=flat-square&logo=googlechrome&logoColor=white)](https://adityaghosh.netlify.app)
+[![GitHub](https://img.shields.io/badge/GitHub-2D2D2D?style=flat-square&logo=github&logoColor=white)](https://github.com/adipanda2002)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2D2D2D?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/adipanda2002)
+[![Instagram](https://img.shields.io/badge/Instagram-2D2D2D?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/adityaghost)
+[![Email](https://img.shields.io/badge/Email-2D2D2D?style=flat-square&logo=gmail&logoColor=white)](mailto:adityaghosh2002@gmail.com)
+
 
 ---
 
@@ -20,10 +21,82 @@
 
 ---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=plastic&logo=swift&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=plastic&logo=assemblyscript&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=plastic&logo=ant-design&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=plastic&logo=chart.js&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=plastic&logo=daisyui&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=plastic&logo=gatsby&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=plastic&logo=jinja&logoColor=black) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=plastic&logo=javafx&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=plastic&logo=radix-ui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Three js](https://img.shields.io/badge/threejs-black?style=plastic&logo=three.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=plastic&logo=yarn&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![CodeCov](https://img.shields.io/badge/codecov-%23ff0077.svg?style=plastic&logo=codecov&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=plastic&logo=Gradle&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=plastic&logo=eslint&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=plastic&logo=prettier&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white)
+# 💻 Tech Stack
 
----
+## 🧾 Languages
+![C](https://img.shields.io/badge/C-2D2D2D?style=flat-square&logo=c&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-2D2D2D?style=flat-square&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/Java-2D2D2D?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-2D2D2D?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-2D2D2D?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-2D2D2D?style=flat-square&logo=python&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-2D2D2D?style=flat-square&logo=swift&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-2D2D2D?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-2D2D2D?style=flat-square&logo=css3&logoColor=white)
+![AssemblyScript](https://img.shields.io/badge/AssemblyScript-2D2D2D?style=flat-square&logo=assemblyscript&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-2D2D2D?style=flat-square&logo=markdown&logoColor=white)
+
+## ⚙️ Frameworks & Libraries
+![Flutter](https://img.shields.io/badge/Flutter-2D2D2D?style=flat-square&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-2D2D2D?style=flat-square&logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-2D2D2D?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-2D2D2D?style=flat-square&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-2D2D2D?style=flat-square&logo=angular&logoColor=white)
+![Express](https://img.shields.io/badge/Express-2D2D2D?style=flat-square&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-2D2D2D?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-2D2D2D?style=flat-square&logo=fastapi&logoColor=white)
+![Gatsby](https://img.shields.io/badge/Gatsby-2D2D2D?style=flat-square&logo=gatsby&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-2D2D2D?style=flat-square&logo=node.js&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-2D2D2D?style=flat-square&logo=java&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-2D2D2D?style=flat-square&logo=tailwind-css&logoColor=white)
+![Radix UI](https://img.shields.io/badge/Radix_UI-2D2D2D?style=flat-square&logo=radix-ui&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-2D2D2D?style=flat-square&logo=daisyui&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant_Design-2D2D2D?style=flat-square&logo=ant-design&logoColor=white)
+![Jinja](https://img.shields.io/badge/Jinja-2D2D2D?style=flat-square&logo=jinja&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-2D2D2D?style=flat-square&logo=vite&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-2D2D2D?style=flat-square&logo=three.js&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-2D2D2D?style=flat-square&logo=chart.js&logoColor=white)
+
+## 🗄️ Databases & Hosting
+![MongoDB](https://img.shields.io/badge/MongoDB-2D2D2D?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-2D2D2D?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2D2D2D?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-2D2D2D?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-2D2D2D?style=flat-square&logo=firebase&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-2D2D2D?style=flat-square&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-2D2D2D?style=flat-square&logo=amazonaws&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-2D2D2D?style=flat-square&logo=heroku&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-2D2D2D?style=flat-square&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-2D2D2D?style=flat-square&logo=vercel&logoColor=white)
+
+## 🤖 Machine Learning & Data
+![Anaconda](https://img.shields.io/badge/Anaconda-2D2D2D?style=flat-square&logo=anaconda&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2D2D2D?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-2D2D2D?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-2D2D2D?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2D2D2D?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-2D2D2D?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-2D2D2D?style=flat-square&logo=matplotlib&logoColor=black)
+
+## 🧰 Tools & DevOps
+![Git](https://img.shields.io/badge/Git-2D2D2D?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-2D2D2D?style=flat-square&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-2D2D2D?style=flat-square&logo=gitlab&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2D2D2D?style=flat-square&logo=docker&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-2D2D2D?style=flat-square&logo=gradle&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-2D2D2D?style=flat-square&logo=jira&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-2D2D2D?style=flat-square&logo=prettier&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-2D2D2D?style=flat-square&logo=eslint&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-2D2D2D?style=flat-square&logo=postman&logoColor=white)
+![CodeCov](https://img.shields.io/badge/CodeCov-2D2D2D?style=flat-square&logo=codecov&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-2D2D2D?style=flat-square&logo=npm&logoColor=white)
+![Yarn](https://img.shields.io/badge/Yarn-2D2D2D?style=flat-square&logo=yarn&logoColor=white)
+
+## 🎨 Design
+![Figma](https://img.shields.io/badge/Figma-2D2D2D?style=flat-square&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-2D2D2D?style=flat-square&logo=canva&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-2D2D2D?style=flat-square&logo=adobephotoshop&logoColor=white)
+
 
 [![](https://visitcount.itsvg.in/api?id=adipanda2002&icon=2&color=3)](https://visitcount.itsvg.in)
 
