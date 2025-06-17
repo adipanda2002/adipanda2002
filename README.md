@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Aditya Ghosh
 
-<!--
-**adipanda2002/adipanda2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a penultimate-year Computer Science student at the National University of Singapore (NUS), specializing in **Artificial Intelligence** and **Software Engineering**. My passion lies in building impactful digital products and exploring how **AI can transform industries** and elevate user experiences.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Let's Connect
+
+- 🌐 [Portfolio Website](https://adityaghosh.netlify.app/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/adipanda2002/)
+- 🧑‍💻 [GitHub](https://github.com/adipanda2002)
+
+📫 Reach me at **adityaghosh@u.nus.edu**
+
+---
